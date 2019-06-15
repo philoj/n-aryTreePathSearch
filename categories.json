@@ -1,0 +1,125 @@
+[
+  {
+    "id": 3,
+    "name": "Kids",
+    "sub_categories": [
+      {
+        "id": 4,
+        "name": "Clothing",
+        "sub_categories": []
+      },
+      {
+        "id": 5,
+        "name": "Shoes",
+        "sub_categories": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Men",
+    "sub_categories": [
+      {
+        "id": 4,
+        "name": "Clothing",
+        "sub_categories": [
+          {
+            "id": 7,
+            "name": "Coat",
+            "sub_categories": []
+          },
+          {
+            "id": 8,
+            "name": "Jacket",
+            "sub_categories": []
+          },
+          {
+            "id": 9,
+            "name": "Jeans",
+            "sub_categories": []
+          },
+          {
+            "id": 6,
+            "name": "Shirt",
+            "sub_categories": []
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Shoes",
+        "sub_categories": []
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Wedding",
+    "sub_categories": [
+      {
+        "id": 2,
+        "name": "Men",
+        "sub_categories": [
+          {
+            "id": 4,
+            "name": "Clothing",
+            "sub_categories": []
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Women",
+        "sub_categories": [
+          {
+            "id": 4,
+            "name": "Clothing",
+            "sub_categories": []
+          },
+          {
+            "id": 5,
+            "name": "Shoes",
+            "sub_categories": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Women",
+    "sub_categories": [
+      {
+        "id": 4,
+        "name": "Clothing",
+        "sub_categories": [
+          {
+            "id": 7,
+            "name": "Coat",
+            "sub_categories": []
+          },
+          {
+            "id": 10,
+            "name": "Gown",
+            "sub_categories": []
+          },
+          {
+            "id": 8,
+            "name": "Jacket",
+            "sub_categories": []
+          },
+          {
+            "id": 13,
+            "name": "Kurthi",
+            "sub_categories": []
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Shoes",
+        "sub_categories": []
+      }
+    ]
+  }
+]
