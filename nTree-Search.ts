@@ -12,10 +12,6 @@ export interface PathMatch<T> {
 /**
  * Search inside a N-ary tree to find first matching chain of nodes starting from root level node(s),
  * connecting all ids in the given id pool.
- * *(Originally implemented to search through the allAvailableFilters.category object,
- * which is practically an N-tree
- * to find the original category tree of a given product's category id list,
- * whoes order cannot be ascertained.)*
  * @param nodeIdPool The list of unique ids of nodes to connect through, IN ANY ORDER
  * @param rootNodeList List of Node objects in the root level, to start from.
  * @param subNodesProperty The name of the property inside the given node objects containing the array of its children.
